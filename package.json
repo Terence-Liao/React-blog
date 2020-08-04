@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "create-next-app": "^9.4.4",
+    "egg-init": "^1.17.3",
+    "i": "^0.3.6"
+  }
+}
